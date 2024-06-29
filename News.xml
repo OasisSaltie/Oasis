@@ -1,11 +1,11 @@
 <news>
 	<entry>
 		<date>2024-06-29 10:10:00Z</date>
-		<title>Storage Improvements</title>
+		<title>Updated Guid UI</title>
 		<text>
-		+ Upped Max Player Count by 5. Total players now 40, with additional 5 for staff.
-		+ Optimized some coding to reduce net packages.
-		+ Books will now scrap to crafting paper, in addition to magazines.
+		+ UI updated to allow for links in game.
+		+ UI updated to allow for announcement in game.
+		+ UI updated to allow for changelogs in game.
 		</text>
 		<link>https://www.google.com</link>
 	</entry>

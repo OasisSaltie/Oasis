@@ -1,59 +1,45 @@
 <news>
 	<entry>
-		<date>2023-11-20 19:00:00Z</date>
-		<title>DISCORD</title>
-		<text>Join our Discord for update information such as Changelogs as well as events and prize giveaways!
-		a
-		b
-		c
-		d
-		e
-		f
-		g
-		h
-		i
-		j
-		k
-		l
-		m
-		n
-		o
-		p
-		q
-		r
-		s
-		t
-		u
-		v
-		w
-		x
-		y
-		z
+		<date>2024-06-29 3:37:00Z</date>
+		<title>Storage Improvements</title>
+		<text>
+		+ Upped Max Player Count by 5. Total players now 40, with additional 5 for staff.
+		+ Optimized some coding to reduce net packages.
+		+ Books will now scrap to crafting paper, in addition to magazines.
+		</text>
+		<link>https://www.google.com</link>
+	</entry>
+	<entry>
+		<date>2024-06-29 2:01:00Z</date>
+		<title>Server Improvements</title>
+		<text>
+		+ Upped Max Player Count by 5. Total players now 40, with additional 5 for staff.
+		+ Optimized some coding to reduce net packages.
+		+ Books will now scrap to crafting paper, in addition to magazines.
+		</text>
+		<link>https://www.google.com</link>
+	</entry>
+	<entry>
+		<date>2024-06-27 7:53:00Z</date>
+		<title>Spanwer Improvements</title>
+		<text>
+		+ Quest Ticket Spawners fixed for 1.0
+		+ New visual effect added.
+		+ Increased performance with spawns via new method. 
+		</text>
+		<link>https://www.google.com</link>
+	</entry>
+	<entry>
+		<date>2024-06-25 2:37:00Z</date>
+		<title>Server Updated 1.0 EXP</title>
+		<text>
+		With this, The Oasis enters 1.0 EXP and it's first full release after two full alphas.
+		We have been through a lot. 
+		We have learned a lot.
+		We have grown a lot.
+		Here's to all of you who have been with us since the start. We are excited to continue to learn, grow, and have fun with old and new players alike. 
 		
-		Click the link below to join!
-		</text>
-		<link>https://discord.gg/theoasisgaming</link>
-	</entry>
-	<entry>
-		<date>2023-11-20 19:00:00Z</date>
-		<title>This is a really really really really long test title</title>
-		<text>Join our Discord for 
-		</text>
-		<link>https://www.google.com</link>
-	</entry>
-	<entry>
-		<date>2023-11-20 19:00:00Z</date>
-		<title>Alpha 21.2 Stable out now!</title>
-		<text>Alpha 21.2 b30 is now stable. For a detailed changelog, please click below
-		Highlight: Death Penalty settings and drone fixes
-		</text>
-		<link>https://www.google.com</link>
-	</entry>
-	<entry>
-		<date>2023-11-20 19:00:00Z</date>
-		<title>Alpha 21.2 Stable out now!</title>
-		<text>Alpha 21.2 b30 is now stable. For a detailed changelog, please click below
-		Highlight: Death Penalty settings and drone fixes
+		Welcome to The Oasis 1.0 EXP!
 		</text>
 		<link>https://www.google.com</link>
 	</entry>

@@ -18,11 +18,11 @@
 		<title>Storage Improvements</title>
 		<text>
 			
-		+ Upped Max Player Count by 5. Total players now 40, with additional 5 for staff.
-			
-		+ Optimized some coding to reduce net packages.
-			
-		+ Books will now scrap to crafting paper, in addition to magazines.
+		+ Better storage beyond the Steel is now available 
+		
+		+ Goes all the way up to Adamantite level
+		
+		+ Steel -> Bronze -> Tungsten -> Mithril -> Dwarvenite -> Adamantite
 			
 		</text>
 		<link>https://www.google.com</link>
@@ -43,7 +43,7 @@
 	</entry>
 	<entry>
 		<date>2024-06-27 07:53:00Z</date>
-		<title>Spanwer Improvements</title>
+		<title>Spawner Improvements</title>
 		<text>
 			
 		+ Quest Ticket Spawners fixed for 1.0

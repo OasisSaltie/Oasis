@@ -1,11 +1,15 @@
 <news>
 	<entry>
 		<date>2024-06-29 10:10:00Z</date>
-		<title>Updated Guid UI</title>
+		<title>Updated Guide UI</title>
 		<text>
+			
 		+ UI updated to allow for links in game.
+			
 		+ UI updated to allow for announcement in game.
+			
 		+ UI updated to allow for changelogs in game.
+			
 		</text>
 		<link>https://www.google.com</link>
 	</entry>
@@ -13,9 +17,13 @@
 		<date>2024-06-29 03:37:00Z</date>
 		<title>Storage Improvements</title>
 		<text>
+			
 		+ Upped Max Player Count by 5. Total players now 40, with additional 5 for staff.
+			
 		+ Optimized some coding to reduce net packages.
+			
 		+ Books will now scrap to crafting paper, in addition to magazines.
+			
 		</text>
 		<link>https://www.google.com</link>
 	</entry>
@@ -23,9 +31,13 @@
 		<date>2024-06-29 02:01:00Z</date>
 		<title>Server Improvements</title>
 		<text>
+			
 		+ Upped Max Player Count by 5. Total players now 40, with additional 5 for staff.
+			
 		+ Optimized some coding to reduce net packages.
+			
 		+ Books will now scrap to crafting paper, in addition to magazines.
+			
 		</text>
 		<link>https://www.google.com</link>
 	</entry>
@@ -33,9 +45,13 @@
 		<date>2024-06-27 07:53:00Z</date>
 		<title>Spanwer Improvements</title>
 		<text>
+			
 		+ Quest Ticket Spawners fixed for 1.0
+			
 		+ New visual effect added.
+			
 		+ Increased performance with spawns via new method. 
+			
 		</text>
 		<link>https://www.google.com</link>
 	</entry>
@@ -43,6 +59,7 @@
 		<date>2024-06-25 02:37:00Z</date>
 		<title>Server Updated 1.0 EXP</title>
 		<text>
+			
 		With this, The Oasis enters 1.0 EXP and it's first full release after two full alphas.
 		We have been through a lot. 
 		We have learned a lot.
@@ -50,6 +67,7 @@
 		Here's to all of you who have been with us since the start. We are excited to continue to learn, grow, and have fun with old and new players alike. 
 		
 		Welcome to The Oasis 1.0 EXP!
+			
 		</text>
 		<link>https://www.google.com</link>
 	</entry>

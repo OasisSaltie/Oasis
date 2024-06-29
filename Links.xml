@@ -1,6 +1,26 @@
 <news>
 	<entry>
 		<date>2023-11-20 19:00:00Z</date>
+		<title>VOTE</title>
+		<text>Voting supports the server and gives you materials in game to craft rare and power items.
+		
+		Click the link below to vote!
+		</text>
+		<link>https://7daystodie-servers.com/server/101794/vote/</link>
+	</entry>
+	<entry>
+		<date>2023-11-20 19:00:00Z</date>
+		<title>SHOP</title>
+		<text>You can use the sand dollar in game currency to buy items and materials from the online shop. 
+		To see your balance use /bal or /wallet
+		Use /claim after buying to claim them in game.
+		
+		Click the link below to shop!
+		</text>
+		<link>https://us.csmm.app/shop/2001</link>
+	</entry>
+	<entry>
+		<date>2023-11-20 19:00:00Z</date>
 		<title>DISCORD</title>
 		<text>We have more information about the server and mods in our discord. We also have events and giveaways.
 		
@@ -10,25 +30,11 @@
 	</entry>
 	<entry>
 		<date>2023-11-20 19:00:00Z</date>
-		<title>This is a really really really really long test title</title>
-		<text>Join our Discord for 
+		<title>WEBSITE</title>
+		<text>You can visit our website to more about The Oasis and the other games we host.
+		
+		Click the link below to visit!
 		</text>
-		<link>https://www.google.com</link>
-	</entry>
-	<entry>
-		<date>2023-11-20 19:00:00Z</date>
-		<title>Alpha 21.2 Stable out now!</title>
-		<text>Alpha 21.2 b30 is now stable. For a detailed changelog, please click below
-		Highlight: Death Penalty settings and drone fixes
-		</text>
-		<link>https://www.google.com</link>
-	</entry>
-	<entry>
-		<date>2023-11-20 19:00:00Z</date>
-		<title>Alpha 21.2 Stable out now!</title>
-		<text>Alpha 21.2 b30 is now stable. For a detailed changelog, please click below
-		Highlight: Death Penalty settings and drone fixes
-		</text>
-		<link>https://www.google.com</link>
+		<link>https://oasisgg.us/7-days-to-die/#serverinfo</link>
 	</entry>
 </news>

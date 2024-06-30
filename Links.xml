@@ -22,6 +22,16 @@
 	</entry>
 	<entry>
 		<date>2023-11-20 19:00:00Z</date>
+		<title>MAP</title>
+		<text>You can use view the live map including seeing yourself, POIS, and trader locations. 
+		Login to steam to access these features.
+		
+		Click the link below for Map!
+		</text>
+		<link>http://144.48.104.134:26915/static/index.html</link>
+	</entry>
+	<entry>
+		<date>2023-11-20 19:00:00Z</date>
 		<title>DISCORD</title>
 		<text>We have more information about the server and mods in our discord. We also have events and giveaways.
 		

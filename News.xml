@@ -1,5 +1,17 @@
 <news>
 	<entry>
+		<date>2024-07-05 14:00:00Z</date>
+		<title>Stability View</title>
+		<text>
+			
+		+ Stability View option has been added to the ESC menu for Donors.
+		
+		+ If you logout with Stability View on, you must re-toggle to activate upon loging back in.
+			
+		</text>
+		<link>https://www.google.com</link>
+	</entry>
+	<entry>
 		<date>2024-07-05 12:00:00Z</date>
 		<title>Dew Collector</title>
 		<text>

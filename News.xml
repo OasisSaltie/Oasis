@@ -1,5 +1,28 @@
 <news>
 	<entry>
+		<date>2024-07-05 12:00:00Z</date>
+		<title>Dew Collector</title>
+		<text>
+			
+		+ Dew Collectors can be upgraded, which will increase speed and amount of water WITH tools in.
+
+		+ REMOVE TOOLS BEFORE UPGRADING
+
+		+ Forged Bronze x10 -> Forged Tungsten x10 -> 
+		  Forged Mithril x10 -> Forged Dwarvenite x10 -> 
+		  Forged Adamantite x10
+
+		+ Vanilla: Speed x2 | Amount 2
+		  Bronze: Speed x4 | Amount 3
+		  Tungsten: Speed x8 | Amount 4
+		  Mithril: Speed x16 | Amount 5
+		  Dwarvenite: Speed x32 | Amount 6
+		  Adamantite: Speed x64 | Amount 10
+			
+		</text>
+		<link>https://www.google.com</link>
+	</entry>
+	<entry>
 		<date>2024-07-02 08:00:00Z</date>
 		<title>Backpack</title>
 		<text>
